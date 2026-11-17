@@ -1,0 +1,16 @@
+name: A theme I would like
+description: A mood, a palette, a scene, a holiday
+labels: [theme request]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What should it be?
+      description: Colours, what moves in the backdrop, what it is for. Pictures welcome.
+    validations:
+      required: true
+  - type: dropdown
+    id: side
+    attributes:
+      label: Mostly for
+      options: [Dark, Light, Both equally]

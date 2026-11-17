@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "somnus-hanami",
+    "name": "Somnus · Hanami",
+    "group": "Scenes",
+    "appearance": "dark",
+    "about": "Blossom viewing: petals fall past a cherry branch across the moon.",
+    "file": "themes/somnus-hanami.json",
+    "preview": "screenshots/somnus-hanami/preview.webp"
+  },
+  {
+    "id": "somnus-rainlight",
+    "name": "Somnus · Rainlight",
+    "group": "Scenes",
+    "appearance": "dark",
+    "about": "A city after rain: drizzle over a skyline of lit windows, magenta beside cyan.",
+    "file": "themes/somnus-rainlight.json",
+    "preview": "screenshots/somnus-rainlight/preview.webp"
+  },
+  {
+    "id": "somnus-evergreen",
+    "name": "Somnus · Evergreen",
+    "group": "Scenes",
+    "appearance": "dark",
+    "about": "A winter wood: snow falling over cut-glass pines.",
+    "file": "themes/somnus-evergreen.json",
+    "preview": "screenshots/somnus-evergreen/preview.webp"
+  },
+  {
+    "id": "somnus-tidewater",
+    "name": "Somnus · Tidewater",
+    "group": "Scenes",
+    "appearance": "dark",
+    "about": "Under the surface: shafts of light swaying through the water, bubbles rising.",
+    "file": "themes/somnus-tidewater.json",
+    "preview": "screenshots/somnus-tidewater/preview.webp"
+  },
+  {
+    "id": "somnus-atoll",
+    "name": "Somnus · Atoll",
+    "group": "Scenes",
+    "appearance": "light",
+    "about": "A reef in clear water: a shoal that turns together over swaying kelp.",
+    "file": "themes/somnus-atoll.json",
+    "preview": "screenshots/somnus-atoll/preview.webp"
+  },
+  {
+    "id": "somnus-laserdisc",
+    "name": "Somnus · Laserdisc",
+    "group": "Scenes",
+    "appearance": "dark",
+    "about": "A synth horizon: a grid running towards you from a striped sun.",
+    "file": "themes/somnus-laserdisc.json",
+    "preview": "screenshots/somnus-laserdisc/preview.webp"
+  },
+  {
+    "id": "somnus-basalt",
+    "name": "Somnus · Basalt",
+    "group": "Scenes",
+    "appearance": "dark",
+    "about": "A volcano at night: lava down its flank, embers rising.",
+    "file": "themes/somnus-basalt.json",
+    "preview": "screenshots/somnus-basalt/preview.webp"
+  },
+  {
+    "id": "somnus-ukiyo",
+    "name": "Somnus · Ukiyo",
+    "group": "Scenes",
+    "appearance": "light",
+    "about": "A woodblock print: a great wave swelling in Prussian blue, a red sun over cream paper.",
+    "file": "themes/somnus-ukiyo.json",
+    "preview": "screenshots/somnus-ukiyo/preview.webp"
+  },
+  {
+    "id": "somnus-lanternlight",
+    "name": "Somnus · Lanternlight",
+    "group": "Scenes",
+    "appearance": "dark",
+    "about": "A festival evening: paper lanterns swaying on a branch, their light breathing.",
+    "file": "themes/somnus-lanternlight.json",
+    "preview": "screenshots/somnus-lanternlight/preview.webp"
+  },
+  {
+    "id": "somnus-deepfield",
+    "name": "Somnus · Deepfield",
+    "group": "Scenes",
+    "appearance": "dark",
+    "about": "A long exposure: gas clouds drifting across a dense starfield.",
+    "file": "themes/somnus-deepfield.json",
+    "preview": "screenshots/somnus-deepfield/preview.webp"
+  },
+  {
+    "id": "somnus-midsummer",
+    "name": "Somnus · Midsummer",
+    "group": "Scenes",
+    "appearance": "light",
+    "about": "The longest evening: a low sun over swaying meadow grass, and fireflies once it is dark.",
+    "file": "themes/somnus-midsummer.json",
+    "preview": "screenshots/somnus-midsummer/preview.webp"
+  },
+  {
+    "id": "somnus-gilded",
+    "name": "Somnus · Gilded",
+    "group": "Scenes",
+    "appearance": "dark",
+    "about": "An Art Deco foyer: a sunburst in fine gold line, light running across its rays.",
+    "file": "themes/somnus-gilded.json",
+    "preview": "screenshots/somnus-gilded/preview.webp"
+  },
+  {
+    "id": "somnus-yuletide",
+    "name": "Somnus · Yuletide",
+    "group": "Festive",
+    "appearance": "dark",
+    "about": "Midwinter: snow falling, and a string of fairy lights that glow in turn. Berry red on dark fir.",
+    "file": "themes/somnus-yuletide.json",
+    "preview": "screenshots/somnus-yuletide/preview.webp"
+  },
+  {
+    "id": "somnus-hallows",
+    "name": "Somnus · Hallows",
+    "group": "Festive",
+    "appearance": "dark",
+    "about": "All Hallows: bats wheeling past an orange moon, a web in the corner.",
+    "file": "themes/somnus-hallows.json",
+    "preview": "screenshots/somnus-hallows/preview.webp"
+  },
+  {
+    "id": "somnus-countdown",
+    "name": "Somnus · Countdown",
+    "group": "Festive",
+    "appearance": "dark",
+    "about": "New Year's Eve: fireworks opening one after another over a field of stars. Gold on midnight.",
+    "file": "themes/somnus-countdown.json",
+    "preview": "screenshots/somnus-countdown/preview.webp"
+  },
+  {
+    "id": "somnus-lunar",
+    "name": "Somnus · Lunar",
+    "group": "Festive",
+    "appearance": "dark",
+    "about": "Lunar New Year: red lanterns swaying, gold sparks rising.",
+    "file": "themes/somnus-lunar.json",
+    "preview": "screenshots/somnus-lunar/preview.webp"
+  },
+  {
+    "id": "somnus-valentine",
+    "name": "Somnus · Valentine",
+    "group": "Festive",
+    "appearance": "light",
+    "about": "Hearts rising slowly, like bubbles. Peony pink on white.",
+    "file": "themes/somnus-valentine.json",
+    "preview": "screenshots/somnus-valentine/preview.webp"
+  },
+  {
+    "id": "somnus-diwali",
+    "name": "Somnus · Diwali",
+    "group": "Festive",
+    "appearance": "dark",
+    "about": "The festival of lights: a row of oil lamps along the foot, flames alive, sparks rising.",
+    "file": "themes/somnus-diwali.json",
+    "preview": "screenshots/somnus-diwali/preview.webp"
+  },
+  {
+    "id": "somnus-harvest",
+    "name": "Somnus · Harvest",
+    "group": "Festive",
+    "appearance": "light",
+    "about": "Autumn: leaves coming down, turning as they fall, on warm paper.",
+    "file": "themes/somnus-harvest.json",
+    "preview": "screenshots/somnus-harvest/preview.webp"
+  },
+  {
+    "id": "somnus-pixel-overworld",
+    "name": "Somnus · Pixel Overworld",
+    "group": "Pixel",
+    "appearance": "light",
+    "about": "Daylight in eight bits: clouds drifting over stepped hills, three hearts over a new thread. After dark, a crescent and square stars.",
+    "file": "themes/somnus-pixel-overworld.json",
+    "preview": "screenshots/somnus-pixel-overworld/preview.webp"
+  },
+  {
+    "id": "somnus-pixel-dungeon",
+    "name": "Somnus · Pixel Dungeon",
+    "group": "Pixel",
+    "appearance": "dark",
+    "about": "Torchlight on stone: brickwork fading down the wall, a torch burning in each corner, a key over a new thread.",
+    "file": "themes/somnus-pixel-dungeon.json",
+    "preview": "screenshots/somnus-pixel-dungeon/preview.webp"
+  },
+  {
+    "id": "somnus-pixel-cosmos",
+    "name": "Somnus · Pixel Cosmos",
+    "group": "Pixel",
+    "appearance": "dark",
+    "about": "Deep space: a ringed planet among square stars, and a saucer that hangs about.",
+    "file": "themes/somnus-pixel-cosmos.json",
+    "preview": "screenshots/somnus-pixel-cosmos/preview.webp"
+  },
+  {
+    "id": "somnus-pixel-pocket",
+    "name": "Somnus · Pixel Pocket",
+    "group": "Pixel",
+    "appearance": "light",
+    "about": "A pocket console: the dot matrix showing through, and a small creature that hops and blinks.",
+    "file": "themes/somnus-pixel-pocket.json",
+    "preview": "screenshots/somnus-pixel-pocket/preview.webp"
+  },
+  {
+    "id": "somnus-pixel-campfire",
+    "name": "Somnus · Pixel Campfire",
+    "group": "Pixel",
+    "appearance": "dark",
+    "about": "A fire in the pines: flames flickering, embers going up, stars out.",
+    "file": "themes/somnus-pixel-campfire.json",
+    "preview": "screenshots/somnus-pixel-campfire/preview.webp"
+  },
+  {
+    "id": "somnus-pixel-reef",
+    "name": "Somnus · Pixel Reef",
+    "group": "Pixel",
+    "appearance": "dark",
+    "about": "Square fish gliding past, weed swaying, bubbles going up.",
+    "file": "themes/somnus-pixel-reef.json",
+    "preview": "screenshots/somnus-pixel-reef/preview.webp"
+  },
+  {
+    "id": "somnus-orrery",
+    "name": "Somnus · Orrery",
+    "group": "Lab",
+    "appearance": "dark",
+    "about": "A model solar system: four planets on their rings round a sun, each keeping its own year, one with a moon.",
+    "file": "themes/somnus-orrery.json",
+    "preview": "screenshots/somnus-orrery/preview.webp"
+  },
+  {
+    "id": "somnus-automata",
+    "name": "Somnus · Automata",
+    "group": "Lab",
+    "appearance": "dark",
+    "about": "Conway's Game of Life: two gliders crossing the chat a generation at a time, a blinker keeping time.",
+    "file": "themes/somnus-automata.json",
+    "preview": "screenshots/somnus-automata/preview.webp"
+  },
+  {
+    "id": "somnus-circuit",
+    "name": "Somnus · Circuit",
+    "group": "Lab",
+    "appearance": "dark",
+    "about": "A circuit board: traces fanning out from a chip to their vias, signals running home along them.",
+    "file": "themes/somnus-circuit.json",
+    "preview": "screenshots/somnus-circuit/preview.webp"
+  },
+  {
+    "id": "somnus-cascade",
+    "name": "Somnus · Cascade",
+    "group": "Lab",
+    "appearance": "dark",
+    "about": "Columns of hex falling down a green screen, their tails fading.",
+    "file": "themes/somnus-cascade.json",
+    "preview": "screenshots/somnus-cascade/preview.webp"
+  },
+  {
+    "id": "somnus-hilbert",
+    "name": "Somnus · Hilbert",
+    "group": "Lab",
+    "appearance": "dark",
+    "about": "A space-filling curve, and two points of light working their way along all 1,023 of its turns.",
+    "file": "themes/somnus-hilbert.json",
+    "preview": "screenshots/somnus-hilbert/preview.webp"
+  },
+  {
+    "id": "somnus-harmonic",
+    "name": "Somnus · Harmonic",
+    "group": "Lab",
+    "appearance": "dark",
+    "about": "A pendulum wave: eleven pendulums, each a little quicker than the last, falling in and out of step every ninety seconds.",
+    "file": "themes/somnus-harmonic.json",
+    "preview": "screenshots/somnus-harmonic/preview.webp"
+  },
+  {
+    "id": "somnus-insomnia",
+    "name": "Somnus · Insomnia",
+    "group": "Insomnia",
+    "appearance": "dark",
+    "about": "The original: violet dusk over blue-black.",
+    "file": "themes/somnus-insomnia.json",
+    "preview": "screenshots/somnus-insomnia/preview.webp"
+  },
+  {
+    "id": "somnus-insomnia-dune",
+    "name": "Somnus · Insomnia Dune",
+    "group": "Insomnia",
+    "appearance": "dark",
+    "about": "Warm stars over a desert horizon, dusty rose; a sun over the dunes by day.",
+    "file": "themes/somnus-insomnia-dune.json",
+    "preview": "screenshots/somnus-insomnia-dune/preview.webp"
+  },
+  {
+    "id": "somnus-insomnia-ember",
+    "name": "Somnus · Insomnia Ember",
+    "group": "Insomnia",
+    "appearance": "dark",
+    "about": "A campfire night: warm stars and an ember-orange glow.",
+    "file": "themes/somnus-insomnia-ember.json",
+    "preview": "screenshots/somnus-insomnia-ember/preview.webp"
+  },
+  {
+    "id": "somnus-insomnia-deep-sea",
+    "name": "Somnus · Insomnia Deep Sea",
+    "group": "Insomnia",
+    "appearance": "dark",
+    "about": "The sky seen from under water: ocean blue on abyssal blue.",
+    "file": "themes/somnus-insomnia-deep-sea.json",
+    "preview": "screenshots/somnus-insomnia-deep-sea/preview.webp"
+  },
+  {
+    "id": "somnus-insomnia-pine",
+    "name": "Somnus · Insomnia Pine",
+    "group": "Insomnia",
+    "appearance": "dark",
+    "about": "A clearing at night: sage green on dark fir.",
+    "file": "themes/somnus-insomnia-pine.json",
+    "preview": "screenshots/somnus-insomnia-pine/preview.webp"
+  },
+  {
+    "id": "somnus-insomnia-plum",
+    "name": "Somnus · Insomnia Plum",
+    "group": "Insomnia",
+    "appearance": "dark",
+    "about": "Late and purple: violet turning pink.",
+    "file": "themes/somnus-insomnia-plum.json",
+    "preview": "screenshots/somnus-insomnia-plum/preview.webp"
+  },
+  {
+    "id": "somnus-insomnia-aurora",
+    "name": "Somnus · Insomnia Aurora",
+    "group": "Insomnia",
+    "appearance": "dark",
+    "about": "A polar night: bright cyan in the sky.",
+    "file": "themes/somnus-insomnia-aurora.json",
+    "preview": "screenshots/somnus-insomnia-aurora/preview.webp"
+  },
+  {
+    "id": "somnus-insomnia-sunset",
+    "name": "Somnus · Insomnia Sunset",
+    "group": "Insomnia",
+    "appearance": "dark",
+    "about": "The magenta afterglow, just before the stars.",
+    "file": "themes/somnus-insomnia-sunset.json",
+    "preview": "screenshots/somnus-insomnia-sunset/preview.webp"
+  },
+  {
+    "id": "somnus-insomnia-amber",
+    "name": "Somnus · Insomnia Amber",
+    "group": "Insomnia",
+    "appearance": "dark",
+    "about": "Lamplight: amber on blue-black.",
+    "file": "themes/somnus-insomnia-amber.json",
+    "preview": "screenshots/somnus-insomnia-amber/preview.webp"
+  },
+  {
+    "id": "somnus-insomnia-lagoon",
+    "name": "Somnus · Insomnia Lagoon",
+    "group": "Insomnia",
+    "appearance": "dark",
+    "about": "Teal water under the stars.",
+    "file": "themes/somnus-insomnia-lagoon.json",
+    "preview": "screenshots/somnus-insomnia-lagoon/preview.webp"
+  },
+  {
+    "id": "somnus-insomnia-graphite",
+    "name": "Somnus · Insomnia Graphite",
+    "group": "Insomnia",
+    "appearance": "dark",
+    "about": "No colour at all: starlight on graphite.",
+    "file": "themes/somnus-insomnia-graphite.json",
+    "preview": "screenshots/somnus-insomnia-graphite/preview.webp"
+  },
+  {
+    "id": "somnus-insomnia-high-contrast",
+    "name": "Somnus · Insomnia High Contrast",
+    "group": "Insomnia",
+    "appearance": "dark",
+    "about": "Insomnia with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-insomnia-high-contrast.json",
+    "preview": "screenshots/somnus-insomnia-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-nocturne",
+    "name": "Somnus · Nocturne",
+    "group": "Nocturne",
+    "appearance": "dark",
+    "about": "Cyan and periwinkle curtains over midnight blue.",
+    "file": "themes/somnus-nocturne.json",
+    "preview": "screenshots/somnus-nocturne/preview.webp"
+  },
+  {
+    "id": "somnus-nocturne-cobalt",
+    "name": "Somnus · Nocturne Cobalt",
+    "group": "Nocturne",
+    "appearance": "dark",
+    "about": "A deeper blue aurora, violet at its edge.",
+    "file": "themes/somnus-nocturne-cobalt.json",
+    "preview": "screenshots/somnus-nocturne-cobalt/preview.webp"
+  },
+  {
+    "id": "somnus-nocturne-prism",
+    "name": "Somnus · Nocturne Prism",
+    "group": "Nocturne",
+    "appearance": "dark",
+    "about": "Violet curtains turning pink, over plum.",
+    "file": "themes/somnus-nocturne-prism.json",
+    "preview": "screenshots/somnus-nocturne-prism/preview.webp"
+  },
+  {
+    "id": "somnus-nocturne-rose",
+    "name": "Somnus · Nocturne Rose",
+    "group": "Nocturne",
+    "appearance": "dark",
+    "about": "A dusty pink aurora, rare and soft.",
+    "file": "themes/somnus-nocturne-rose.json",
+    "preview": "screenshots/somnus-nocturne-rose/preview.webp"
+  },
+  {
+    "id": "somnus-nocturne-deep-sea",
+    "name": "Somnus · Nocturne Deep Sea",
+    "group": "Nocturne",
+    "appearance": "dark",
+    "about": "Bioluminescence rather than sky.",
+    "file": "themes/somnus-nocturne-deep-sea.json",
+    "preview": "screenshots/somnus-nocturne-deep-sea/preview.webp"
+  },
+  {
+    "id": "somnus-nocturne-holo",
+    "name": "Somnus · Nocturne Holo",
+    "group": "Nocturne",
+    "appearance": "dark",
+    "about": "Periwinkle into orchid, like an oil film.",
+    "file": "themes/somnus-nocturne-holo.json",
+    "preview": "screenshots/somnus-nocturne-holo/preview.webp"
+  },
+  {
+    "id": "somnus-nocturne-sunset",
+    "name": "Somnus · Nocturne Sunset",
+    "group": "Nocturne",
+    "appearance": "dark",
+    "about": "Magenta curtains.",
+    "file": "themes/somnus-nocturne-sunset.json",
+    "preview": "screenshots/somnus-nocturne-sunset/preview.webp"
+  },
+  {
+    "id": "somnus-nocturne-mint",
+    "name": "Somnus · Nocturne Mint",
+    "group": "Nocturne",
+    "appearance": "dark",
+    "about": "Green curtains, as the aurora mostly is.",
+    "file": "themes/somnus-nocturne-mint.json",
+    "preview": "screenshots/somnus-nocturne-mint/preview.webp"
+  },
+  {
+    "id": "somnus-nocturne-orchid",
+    "name": "Somnus · Nocturne Orchid",
+    "group": "Nocturne",
+    "appearance": "dark",
+    "about": "Orchid curtains.",
+    "file": "themes/somnus-nocturne-orchid.json",
+    "preview": "screenshots/somnus-nocturne-orchid/preview.webp"
+  },
+  {
+    "id": "somnus-nocturne-neon",
+    "name": "Somnus · Nocturne Neon",
+    "group": "Nocturne",
+    "appearance": "dark",
+    "about": "Electric cyan curtains.",
+    "file": "themes/somnus-nocturne-neon.json",
+    "preview": "screenshots/somnus-nocturne-neon/preview.webp"
+  },
+  {
+    "id": "somnus-nocturne-high-contrast",
+    "name": "Somnus · Nocturne High Contrast",
+    "group": "Nocturne",
+    "appearance": "dark",
+    "about": "Nocturne with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-nocturne-high-contrast.json",
+    "preview": "screenshots/somnus-nocturne-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-obsidian",
+    "name": "Somnus · Obsidian",
+    "group": "Obsidian",
+    "appearance": "dark",
+    "about": "Sage-green light on black glass.",
+    "file": "themes/somnus-obsidian.json",
+    "preview": "screenshots/somnus-obsidian/preview.webp"
+  },
+  {
+    "id": "somnus-obsidian-cobalt",
+    "name": "Somnus · Obsidian Cobalt",
+    "group": "Obsidian",
+    "appearance": "dark",
+    "about": "Electric blue edges.",
+    "file": "themes/somnus-obsidian-cobalt.json",
+    "preview": "screenshots/somnus-obsidian-cobalt/preview.webp"
+  },
+  {
+    "id": "somnus-obsidian-ember",
+    "name": "Somnus · Obsidian Ember",
+    "group": "Obsidian",
+    "appearance": "dark",
+    "about": "Volcanic glass: ember light in red-black rock.",
+    "file": "themes/somnus-obsidian-ember.json",
+    "preview": "screenshots/somnus-obsidian-ember/preview.webp"
+  },
+  {
+    "id": "somnus-obsidian-slate",
+    "name": "Somnus · Obsidian Slate",
+    "group": "Obsidian",
+    "appearance": "dark",
+    "about": "Cool and quiet, sky blue on slate.",
+    "file": "themes/somnus-obsidian-slate.json",
+    "preview": "screenshots/somnus-obsidian-slate/preview.webp"
+  },
+  {
+    "id": "somnus-obsidian-holo",
+    "name": "Somnus · Obsidian Holo",
+    "group": "Obsidian",
+    "appearance": "dark",
+    "about": "Oil-slick edges: periwinkle into orchid.",
+    "file": "themes/somnus-obsidian-holo.json",
+    "preview": "screenshots/somnus-obsidian-holo/preview.webp"
+  },
+  {
+    "id": "somnus-obsidian-sunset",
+    "name": "Somnus · Obsidian Sunset",
+    "group": "Obsidian",
+    "appearance": "dark",
+    "about": "Magenta edges.",
+    "file": "themes/somnus-obsidian-sunset.json",
+    "preview": "screenshots/somnus-obsidian-sunset/preview.webp"
+  },
+  {
+    "id": "somnus-obsidian-ruby",
+    "name": "Somnus · Obsidian Ruby",
+    "group": "Obsidian",
+    "appearance": "dark",
+    "about": "Red edges.",
+    "file": "themes/somnus-obsidian-ruby.json",
+    "preview": "screenshots/somnus-obsidian-ruby/preview.webp"
+  },
+  {
+    "id": "somnus-obsidian-citrine",
+    "name": "Somnus · Obsidian Citrine",
+    "group": "Obsidian",
+    "appearance": "dark",
+    "about": "Yellow edges.",
+    "file": "themes/somnus-obsidian-citrine.json",
+    "preview": "screenshots/somnus-obsidian-citrine/preview.webp"
+  },
+  {
+    "id": "somnus-obsidian-mint",
+    "name": "Somnus · Obsidian Mint",
+    "group": "Obsidian",
+    "appearance": "dark",
+    "about": "Green edges.",
+    "file": "themes/somnus-obsidian-mint.json",
+    "preview": "screenshots/somnus-obsidian-mint/preview.webp"
+  },
+  {
+    "id": "somnus-obsidian-high-contrast",
+    "name": "Somnus · Obsidian High Contrast",
+    "group": "Obsidian",
+    "appearance": "dark",
+    "about": "Obsidian with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-obsidian-high-contrast.json",
+    "preview": "screenshots/somnus-obsidian-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-carbon",
+    "name": "Somnus · Carbon",
+    "group": "Carbon",
+    "appearance": "dark",
+    "about": "Black, white, and nothing else.",
+    "file": "themes/somnus-carbon.json",
+    "preview": "screenshots/somnus-carbon/preview.webp"
+  },
+  {
+    "id": "somnus-carbon-cobalt",
+    "name": "Somnus · Carbon Cobalt",
+    "group": "Carbon",
+    "appearance": "dark",
+    "about": "One blue wire.",
+    "file": "themes/somnus-carbon-cobalt.json",
+    "preview": "screenshots/somnus-carbon-cobalt/preview.webp"
+  },
+  {
+    "id": "somnus-carbon-magenta",
+    "name": "Somnus · Carbon Magenta",
+    "group": "Carbon",
+    "appearance": "dark",
+    "about": "One magenta wire.",
+    "file": "themes/somnus-carbon-magenta.json",
+    "preview": "screenshots/somnus-carbon-magenta/preview.webp"
+  },
+  {
+    "id": "somnus-carbon-sage",
+    "name": "Somnus · Carbon Sage",
+    "group": "Carbon",
+    "appearance": "dark",
+    "about": "One green wire.",
+    "file": "themes/somnus-carbon-sage.json",
+    "preview": "screenshots/somnus-carbon-sage/preview.webp"
+  },
+  {
+    "id": "somnus-carbon-phosphor",
+    "name": "Somnus · Carbon Phosphor",
+    "group": "Carbon",
+    "appearance": "dark",
+    "about": "A green-screen terminal.",
+    "file": "themes/somnus-carbon-phosphor.json",
+    "preview": "screenshots/somnus-carbon-phosphor/preview.webp"
+  },
+  {
+    "id": "somnus-carbon-amber",
+    "name": "Somnus · Carbon Amber",
+    "group": "Carbon",
+    "appearance": "dark",
+    "about": "An amber monitor.",
+    "file": "themes/somnus-carbon-amber.json",
+    "preview": "screenshots/somnus-carbon-amber/preview.webp"
+  },
+  {
+    "id": "somnus-carbon-ruby",
+    "name": "Somnus · Carbon Ruby",
+    "group": "Carbon",
+    "appearance": "dark",
+    "about": "One red wire.",
+    "file": "themes/somnus-carbon-ruby.json",
+    "preview": "screenshots/somnus-carbon-ruby/preview.webp"
+  },
+  {
+    "id": "somnus-carbon-high-contrast",
+    "name": "Somnus · Carbon High Contrast",
+    "group": "Carbon",
+    "appearance": "dark",
+    "about": "Carbon with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-carbon-high-contrast.json",
+    "preview": "screenshots/somnus-carbon-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-vellum",
+    "name": "Somnus · Vellum",
+    "group": "Vellum",
+    "appearance": "light",
+    "about": "Sepia ink on cream paper.",
+    "file": "themes/somnus-vellum.json",
+    "preview": "screenshots/somnus-vellum/preview.webp"
+  },
+  {
+    "id": "somnus-vellum-rose",
+    "name": "Somnus · Vellum Rose",
+    "group": "Vellum",
+    "appearance": "light",
+    "about": "Madder rose ink.",
+    "file": "themes/somnus-vellum-rose.json",
+    "preview": "screenshots/somnus-vellum-rose/preview.webp"
+  },
+  {
+    "id": "somnus-vellum-sage",
+    "name": "Somnus · Vellum Sage",
+    "group": "Vellum",
+    "appearance": "light",
+    "about": "Green ink on a cooler sheet.",
+    "file": "themes/somnus-vellum-sage.json",
+    "preview": "screenshots/somnus-vellum-sage/preview.webp"
+  },
+  {
+    "id": "somnus-vellum-ink",
+    "name": "Somnus · Vellum Ink",
+    "group": "Vellum",
+    "appearance": "light",
+    "about": "Black ink, as written.",
+    "file": "themes/somnus-vellum-ink.json",
+    "preview": "screenshots/somnus-vellum-ink/preview.webp"
+  },
+  {
+    "id": "somnus-vellum-dusk",
+    "name": "Somnus · Vellum Dusk",
+    "group": "Vellum",
+    "appearance": "light",
+    "about": "Violet ink on a lilac sheet.",
+    "file": "themes/somnus-vellum-dusk.json",
+    "preview": "screenshots/somnus-vellum-dusk/preview.webp"
+  },
+  {
+    "id": "somnus-vellum-cinnabar",
+    "name": "Somnus · Vellum Cinnabar",
+    "group": "Vellum",
+    "appearance": "light",
+    "about": "Red ink, as for corrections.",
+    "file": "themes/somnus-vellum-cinnabar.json",
+    "preview": "screenshots/somnus-vellum-cinnabar/preview.webp"
+  },
+  {
+    "id": "somnus-vellum-indigo",
+    "name": "Somnus · Vellum Indigo",
+    "group": "Vellum",
+    "appearance": "light",
+    "about": "Indigo ink.",
+    "file": "themes/somnus-vellum-indigo.json",
+    "preview": "screenshots/somnus-vellum-indigo/preview.webp"
+  },
+  {
+    "id": "somnus-vellum-umber",
+    "name": "Somnus · Vellum Umber",
+    "group": "Vellum",
+    "appearance": "light",
+    "about": "Brown ink.",
+    "file": "themes/somnus-vellum-umber.json",
+    "preview": "screenshots/somnus-vellum-umber/preview.webp"
+  },
+  {
+    "id": "somnus-vellum-high-contrast",
+    "name": "Somnus · Vellum High Contrast",
+    "group": "Vellum",
+    "appearance": "light",
+    "about": "Vellum with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-vellum-high-contrast.json",
+    "preview": "screenshots/somnus-vellum-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-porcelain",
+    "name": "Somnus · Porcelain",
+    "group": "Porcelain",
+    "appearance": "light",
+    "about": "Cobalt on white, the classic.",
+    "file": "themes/somnus-porcelain.json",
+    "preview": "screenshots/somnus-porcelain/preview.webp"
+  },
+  {
+    "id": "somnus-porcelain-rose",
+    "name": "Somnus · Porcelain Rose",
+    "group": "Porcelain",
+    "appearance": "light",
+    "about": "Famille rose.",
+    "file": "themes/somnus-porcelain-rose.json",
+    "preview": "screenshots/somnus-porcelain-rose/preview.webp"
+  },
+  {
+    "id": "somnus-porcelain-celadon",
+    "name": "Somnus · Porcelain Celadon",
+    "group": "Porcelain",
+    "appearance": "light",
+    "about": "Grey-green celadon glaze.",
+    "file": "themes/somnus-porcelain-celadon.json",
+    "preview": "screenshots/somnus-porcelain-celadon/preview.webp"
+  },
+  {
+    "id": "somnus-porcelain-bone",
+    "name": "Somnus · Porcelain Bone",
+    "group": "Porcelain",
+    "appearance": "light",
+    "about": "Warm bone china with a sand glaze.",
+    "file": "themes/somnus-porcelain-bone.json",
+    "preview": "screenshots/somnus-porcelain-bone/preview.webp"
+  },
+  {
+    "id": "somnus-porcelain-dusk",
+    "name": "Somnus · Porcelain Dusk",
+    "group": "Porcelain",
+    "appearance": "light",
+    "about": "Lavender glaze.",
+    "file": "themes/somnus-porcelain-dusk.json",
+    "preview": "screenshots/somnus-porcelain-dusk/preview.webp"
+  },
+  {
+    "id": "somnus-porcelain-kintsugi",
+    "name": "Somnus · Porcelain Kintsugi",
+    "group": "Porcelain",
+    "appearance": "light",
+    "about": "Gold on warm bone china.",
+    "file": "themes/somnus-porcelain-kintsugi.json",
+    "preview": "screenshots/somnus-porcelain-kintsugi/preview.webp"
+  },
+  {
+    "id": "somnus-porcelain-peony",
+    "name": "Somnus · Porcelain Peony",
+    "group": "Porcelain",
+    "appearance": "light",
+    "about": "Peony pink.",
+    "file": "themes/somnus-porcelain-peony.json",
+    "preview": "screenshots/somnus-porcelain-peony/preview.webp"
+  },
+  {
+    "id": "somnus-porcelain-high-contrast",
+    "name": "Somnus · Porcelain High Contrast",
+    "group": "Porcelain",
+    "appearance": "light",
+    "about": "Porcelain with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-porcelain-high-contrast.json",
+    "preview": "screenshots/somnus-porcelain-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-classic",
+    "name": "Somnus · Classic",
+    "group": "Classic",
+    "appearance": "dark",
+    "about": "Graphite and stone, as Somnus ships.",
+    "file": "themes/somnus-classic.json",
+    "preview": "screenshots/somnus-classic/preview.webp"
+  },
+  {
+    "id": "somnus-classic-stone",
+    "name": "Somnus · Classic Stone",
+    "group": "Classic",
+    "appearance": "dark",
+    "about": "Sandstone: warm greys, a sand accent.",
+    "file": "themes/somnus-classic-stone.json",
+    "preview": "screenshots/somnus-classic-stone/preview.webp"
+  },
+  {
+    "id": "somnus-classic-pine",
+    "name": "Somnus · Classic Pine",
+    "group": "Classic",
+    "appearance": "dark",
+    "about": "A forest survey.",
+    "file": "themes/somnus-classic-pine.json",
+    "preview": "screenshots/somnus-classic-pine/preview.webp"
+  },
+  {
+    "id": "somnus-classic-plum",
+    "name": "Somnus · Classic Plum",
+    "group": "Classic",
+    "appearance": "dark",
+    "about": "Violet over plum-black.",
+    "file": "themes/somnus-classic-plum.json",
+    "preview": "screenshots/somnus-classic-plum/preview.webp"
+  },
+  {
+    "id": "somnus-classic-deep-sea",
+    "name": "Somnus · Classic Deep Sea",
+    "group": "Classic",
+    "appearance": "dark",
+    "about": "A sea chart: depth lines in blue.",
+    "file": "themes/somnus-classic-deep-sea.json",
+    "preview": "screenshots/somnus-classic-deep-sea/preview.webp"
+  },
+  {
+    "id": "somnus-classic-ember",
+    "name": "Somnus · Classic Ember",
+    "group": "Classic",
+    "appearance": "dark",
+    "about": "Cooling lava: ember orange over red-black rock.",
+    "file": "themes/somnus-classic-ember.json",
+    "preview": "screenshots/somnus-classic-ember/preview.webp"
+  },
+  {
+    "id": "somnus-classic-moss",
+    "name": "Somnus · Classic Moss",
+    "group": "Classic",
+    "appearance": "dark",
+    "about": "Moss green on graphite.",
+    "file": "themes/somnus-classic-moss.json",
+    "preview": "screenshots/somnus-classic-moss/preview.webp"
+  },
+  {
+    "id": "somnus-classic-clay",
+    "name": "Somnus · Classic Clay",
+    "group": "Classic",
+    "appearance": "dark",
+    "about": "Terracotta on graphite.",
+    "file": "themes/somnus-classic-clay.json",
+    "preview": "screenshots/somnus-classic-clay/preview.webp"
+  },
+  {
+    "id": "somnus-classic-high-contrast",
+    "name": "Somnus · Classic High Contrast",
+    "group": "Classic",
+    "appearance": "dark",
+    "about": "Classic with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-classic-high-contrast.json",
+    "preview": "screenshots/somnus-classic-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-luminous",
+    "name": "Somnus · Luminous",
+    "group": "Luminous",
+    "appearance": "dark",
+    "about": "Neutral grey, sky-blue light.",
+    "file": "themes/somnus-luminous.json",
+    "preview": "screenshots/somnus-luminous/preview.webp"
+  },
+  {
+    "id": "somnus-luminous-prism",
+    "name": "Somnus · Luminous Prism",
+    "group": "Luminous",
+    "appearance": "dark",
+    "about": "Violet into pink.",
+    "file": "themes/somnus-luminous-prism.json",
+    "preview": "screenshots/somnus-luminous-prism/preview.webp"
+  },
+  {
+    "id": "somnus-luminous-sunset",
+    "name": "Somnus · Luminous Sunset",
+    "group": "Luminous",
+    "appearance": "dark",
+    "about": "Magenta into coral.",
+    "file": "themes/somnus-luminous-sunset.json",
+    "preview": "screenshots/somnus-luminous-sunset/preview.webp"
+  },
+  {
+    "id": "somnus-luminous-aurora",
+    "name": "Somnus · Luminous Aurora",
+    "group": "Luminous",
+    "appearance": "dark",
+    "about": "Cyan into periwinkle.",
+    "file": "themes/somnus-luminous-aurora.json",
+    "preview": "screenshots/somnus-luminous-aurora/preview.webp"
+  },
+  {
+    "id": "somnus-luminous-sol",
+    "name": "Somnus · Luminous Sol",
+    "group": "Luminous",
+    "appearance": "dark",
+    "about": "Gold light.",
+    "file": "themes/somnus-luminous-sol.json",
+    "preview": "screenshots/somnus-luminous-sol/preview.webp"
+  },
+  {
+    "id": "somnus-luminous-candy",
+    "name": "Somnus · Luminous Candy",
+    "group": "Luminous",
+    "appearance": "dark",
+    "about": "Hot pink light.",
+    "file": "themes/somnus-luminous-candy.json",
+    "preview": "screenshots/somnus-luminous-candy/preview.webp"
+  },
+  {
+    "id": "somnus-luminous-glacier",
+    "name": "Somnus · Luminous Glacier",
+    "group": "Luminous",
+    "appearance": "dark",
+    "about": "Ice light.",
+    "file": "themes/somnus-luminous-glacier.json",
+    "preview": "screenshots/somnus-luminous-glacier/preview.webp"
+  },
+  {
+    "id": "somnus-luminous-high-contrast",
+    "name": "Somnus · Luminous High Contrast",
+    "group": "Luminous",
+    "appearance": "dark",
+    "about": "Luminous with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-luminous-high-contrast.json",
+    "preview": "screenshots/somnus-luminous-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-pebble",
+    "name": "Somnus · Pebble",
+    "group": "Pebble",
+    "appearance": "light",
+    "about": "Sage green, the look as designed.",
+    "file": "themes/somnus-pebble.json",
+    "preview": "screenshots/somnus-pebble/preview.webp"
+  },
+  {
+    "id": "somnus-pebble-rose",
+    "name": "Somnus · Pebble Rose",
+    "group": "Pebble",
+    "appearance": "light",
+    "about": "Rose quartz.",
+    "file": "themes/somnus-pebble-rose.json",
+    "preview": "screenshots/somnus-pebble-rose/preview.webp"
+  },
+  {
+    "id": "somnus-pebble-sky",
+    "name": "Somnus · Pebble Sky",
+    "group": "Pebble",
+    "appearance": "light",
+    "about": "River stone under blue water.",
+    "file": "themes/somnus-pebble-sky.json",
+    "preview": "screenshots/somnus-pebble-sky/preview.webp"
+  },
+  {
+    "id": "somnus-pebble-sand",
+    "name": "Somnus · Pebble Sand",
+    "group": "Pebble",
+    "appearance": "light",
+    "about": "A warm beach pebble.",
+    "file": "themes/somnus-pebble-sand.json",
+    "preview": "screenshots/somnus-pebble-sand/preview.webp"
+  },
+  {
+    "id": "somnus-pebble-fern",
+    "name": "Somnus · Pebble Fern",
+    "group": "Pebble",
+    "appearance": "light",
+    "about": "Fern green.",
+    "file": "themes/somnus-pebble-fern.json",
+    "preview": "screenshots/somnus-pebble-fern/preview.webp"
+  },
+  {
+    "id": "somnus-pebble-clay",
+    "name": "Somnus · Pebble Clay",
+    "group": "Pebble",
+    "appearance": "light",
+    "about": "A terracotta pebble.",
+    "file": "themes/somnus-pebble-clay.json",
+    "preview": "screenshots/somnus-pebble-clay/preview.webp"
+  },
+  {
+    "id": "somnus-pebble-tide",
+    "name": "Somnus · Pebble Tide",
+    "group": "Pebble",
+    "appearance": "light",
+    "about": "Tide-pool blue.",
+    "file": "themes/somnus-pebble-tide.json",
+    "preview": "screenshots/somnus-pebble-tide/preview.webp"
+  },
+  {
+    "id": "somnus-pebble-high-contrast",
+    "name": "Somnus · Pebble High Contrast",
+    "group": "Pebble",
+    "appearance": "light",
+    "about": "Pebble with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-pebble-high-contrast.json",
+    "preview": "screenshots/somnus-pebble-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-candor",
+    "name": "Somnus · Candor",
+    "group": "Candor",
+    "appearance": "light",
+    "about": "Clear blue on white.",
+    "file": "themes/somnus-candor.json",
+    "preview": "screenshots/somnus-candor/preview.webp"
+  },
+  {
+    "id": "somnus-candor-forest",
+    "name": "Somnus · Candor Forest",
+    "group": "Candor",
+    "appearance": "light",
+    "about": "Clear green.",
+    "file": "themes/somnus-candor-forest.json",
+    "preview": "screenshots/somnus-candor-forest/preview.webp"
+  },
+  {
+    "id": "somnus-candor-ink",
+    "name": "Somnus · Candor Ink",
+    "group": "Candor",
+    "appearance": "light",
+    "about": "Black on white, and that is all.",
+    "file": "themes/somnus-candor-ink.json",
+    "preview": "screenshots/somnus-candor-ink/preview.webp"
+  },
+  {
+    "id": "somnus-candor-ruby",
+    "name": "Somnus · Candor Ruby",
+    "group": "Candor",
+    "appearance": "light",
+    "about": "Clear red.",
+    "file": "themes/somnus-candor-ruby.json",
+    "preview": "screenshots/somnus-candor-ruby/preview.webp"
+  },
+  {
+    "id": "somnus-candor-high-contrast",
+    "name": "Somnus · Candor High Contrast",
+    "group": "Candor",
+    "appearance": "light",
+    "about": "Candor with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-candor-high-contrast.json",
+    "preview": "screenshots/somnus-candor-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-orchard",
+    "name": "Somnus · Orchard",
+    "group": "Orchard",
+    "appearance": "light",
+    "about": "Orchard blue, the look as designed.",
+    "file": "themes/somnus-orchard.json",
+    "preview": "screenshots/somnus-orchard/preview.webp"
+  },
+  {
+    "id": "somnus-orchard-rose",
+    "name": "Somnus · Orchard Rose",
+    "group": "Orchard",
+    "appearance": "light",
+    "about": "Blossom pink.",
+    "file": "themes/somnus-orchard-rose.json",
+    "preview": "screenshots/somnus-orchard-rose/preview.webp"
+  },
+  {
+    "id": "somnus-orchard-sage",
+    "name": "Somnus · Orchard Sage",
+    "group": "Orchard",
+    "appearance": "light",
+    "about": "Leaf green.",
+    "file": "themes/somnus-orchard-sage.json",
+    "preview": "screenshots/somnus-orchard-sage/preview.webp"
+  },
+  {
+    "id": "somnus-orchard-prism",
+    "name": "Somnus · Orchard Prism",
+    "group": "Orchard",
+    "appearance": "light",
+    "about": "Violet.",
+    "file": "themes/somnus-orchard-prism.json",
+    "preview": "screenshots/somnus-orchard-prism/preview.webp"
+  },
+  {
+    "id": "somnus-orchard-sunset",
+    "name": "Somnus · Orchard Sunset",
+    "group": "Orchard",
+    "appearance": "light",
+    "about": "Magenta.",
+    "file": "themes/somnus-orchard-sunset.json",
+    "preview": "screenshots/somnus-orchard-sunset/preview.webp"
+  },
+  {
+    "id": "somnus-orchard-apricot",
+    "name": "Somnus · Orchard Apricot",
+    "group": "Orchard",
+    "appearance": "light",
+    "about": "Orange.",
+    "file": "themes/somnus-orchard-apricot.json",
+    "preview": "screenshots/somnus-orchard-apricot/preview.webp"
+  },
+  {
+    "id": "somnus-orchard-mint",
+    "name": "Somnus · Orchard Mint",
+    "group": "Orchard",
+    "appearance": "light",
+    "about": "Mint green.",
+    "file": "themes/somnus-orchard-mint.json",
+    "preview": "screenshots/somnus-orchard-mint/preview.webp"
+  },
+  {
+    "id": "somnus-orchard-cherry",
+    "name": "Somnus · Orchard Cherry",
+    "group": "Orchard",
+    "appearance": "light",
+    "about": "Red.",
+    "file": "themes/somnus-orchard-cherry.json",
+    "preview": "screenshots/somnus-orchard-cherry/preview.webp"
+  },
+  {
+    "id": "somnus-orchard-high-contrast",
+    "name": "Somnus · Orchard High Contrast",
+    "group": "Orchard",
+    "appearance": "light",
+    "about": "Orchard with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-orchard-high-contrast.json",
+    "preview": "screenshots/somnus-orchard-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-strata",
+    "name": "Somnus · Strata",
+    "group": "Strata",
+    "appearance": "dark",
+    "about": "Azure layers, the look as designed.",
+    "file": "themes/somnus-strata.json",
+    "preview": "screenshots/somnus-strata/preview.webp"
+  },
+  {
+    "id": "somnus-strata-forest",
+    "name": "Somnus · Strata Forest",
+    "group": "Strata",
+    "appearance": "dark",
+    "about": "Moss and slate.",
+    "file": "themes/somnus-strata-forest.json",
+    "preview": "screenshots/somnus-strata-forest/preview.webp"
+  },
+  {
+    "id": "somnus-strata-dusk",
+    "name": "Somnus · Strata Dusk",
+    "group": "Strata",
+    "appearance": "dark",
+    "about": "Lavender layers.",
+    "file": "themes/somnus-strata-dusk.json",
+    "preview": "screenshots/somnus-strata-dusk/preview.webp"
+  },
+  {
+    "id": "somnus-strata-sand",
+    "name": "Somnus · Strata Sand",
+    "group": "Strata",
+    "appearance": "dark",
+    "about": "Sandstone layers.",
+    "file": "themes/somnus-strata-sand.json",
+    "preview": "screenshots/somnus-strata-sand/preview.webp"
+  },
+  {
+    "id": "somnus-strata-harbor",
+    "name": "Somnus · Strata Harbor",
+    "group": "Strata",
+    "appearance": "dark",
+    "about": "Harbour blue layers.",
+    "file": "themes/somnus-strata-harbor.json",
+    "preview": "screenshots/somnus-strata-harbor/preview.webp"
+  },
+  {
+    "id": "somnus-strata-heather",
+    "name": "Somnus · Strata Heather",
+    "group": "Strata",
+    "appearance": "dark",
+    "about": "Heather layers.",
+    "file": "themes/somnus-strata-heather.json",
+    "preview": "screenshots/somnus-strata-heather/preview.webp"
+  },
+  {
+    "id": "somnus-strata-red-rock",
+    "name": "Somnus · Strata Red Rock",
+    "group": "Strata",
+    "appearance": "dark",
+    "about": "Red rock layers.",
+    "file": "themes/somnus-strata-red-rock.json",
+    "preview": "screenshots/somnus-strata-red-rock/preview.webp"
+  },
+  {
+    "id": "somnus-strata-high-contrast",
+    "name": "Somnus · Strata High Contrast",
+    "group": "Strata",
+    "appearance": "dark",
+    "about": "Strata with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-strata-high-contrast.json",
+    "preview": "screenshots/somnus-strata-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-jubilee",
+    "name": "Somnus · Jubilee",
+    "group": "Jubilee",
+    "appearance": "light",
+    "about": "Jubilee as designed.",
+    "file": "themes/somnus-jubilee.json",
+    "preview": "screenshots/somnus-jubilee/preview.webp"
+  },
+  {
+    "id": "somnus-jubilee-sunset",
+    "name": "Somnus · Jubilee Sunset",
+    "group": "Jubilee",
+    "appearance": "light",
+    "about": "Magenta and coral.",
+    "file": "themes/somnus-jubilee-sunset.json",
+    "preview": "screenshots/somnus-jubilee-sunset/preview.webp"
+  },
+  {
+    "id": "somnus-jubilee-aurora",
+    "name": "Somnus · Jubilee Aurora",
+    "group": "Jubilee",
+    "appearance": "light",
+    "about": "Cyan and blue.",
+    "file": "themes/somnus-jubilee-aurora.json",
+    "preview": "screenshots/somnus-jubilee-aurora/preview.webp"
+  },
+  {
+    "id": "somnus-jubilee-rose",
+    "name": "Somnus · Jubilee Rose",
+    "group": "Jubilee",
+    "appearance": "light",
+    "about": "Pink on pink.",
+    "file": "themes/somnus-jubilee-rose.json",
+    "preview": "screenshots/somnus-jubilee-rose/preview.webp"
+  },
+  {
+    "id": "somnus-jubilee-sky",
+    "name": "Somnus · Jubilee Sky",
+    "group": "Jubilee",
+    "appearance": "light",
+    "about": "Blue on blue.",
+    "file": "themes/somnus-jubilee-sky.json",
+    "preview": "screenshots/somnus-jubilee-sky/preview.webp"
+  },
+  {
+    "id": "somnus-jubilee-candy",
+    "name": "Somnus · Jubilee Candy",
+    "group": "Jubilee",
+    "appearance": "light",
+    "about": "Hot pink.",
+    "file": "themes/somnus-jubilee-candy.json",
+    "preview": "screenshots/somnus-jubilee-candy/preview.webp"
+  },
+  {
+    "id": "somnus-jubilee-citrine",
+    "name": "Somnus · Jubilee Citrine",
+    "group": "Jubilee",
+    "appearance": "light",
+    "about": "Yellow.",
+    "file": "themes/somnus-jubilee-citrine.json",
+    "preview": "screenshots/somnus-jubilee-citrine/preview.webp"
+  },
+  {
+    "id": "somnus-jubilee-mint",
+    "name": "Somnus · Jubilee Mint",
+    "group": "Jubilee",
+    "appearance": "light",
+    "about": "Mint green.",
+    "file": "themes/somnus-jubilee-mint.json",
+    "preview": "screenshots/somnus-jubilee-mint/preview.webp"
+  },
+  {
+    "id": "somnus-jubilee-high-contrast",
+    "name": "Somnus · Jubilee High Contrast",
+    "group": "Jubilee",
+    "appearance": "light",
+    "about": "Jubilee with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-jubilee-high-contrast.json",
+    "preview": "screenshots/somnus-jubilee-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-sticker",
+    "name": "Somnus · Sticker",
+    "group": "Sticker",
+    "appearance": "light",
+    "about": "Hot pink, the look as designed.",
+    "file": "themes/somnus-sticker.json",
+    "preview": "screenshots/somnus-sticker/preview.webp"
+  },
+  {
+    "id": "somnus-sticker-cobalt",
+    "name": "Somnus · Sticker Cobalt",
+    "group": "Sticker",
+    "appearance": "light",
+    "about": "Blue pop.",
+    "file": "themes/somnus-sticker-cobalt.json",
+    "preview": "screenshots/somnus-sticker-cobalt/preview.webp"
+  },
+  {
+    "id": "somnus-sticker-aurora",
+    "name": "Somnus · Sticker Aurora",
+    "group": "Sticker",
+    "appearance": "light",
+    "about": "Cyan pop.",
+    "file": "themes/somnus-sticker-aurora.json",
+    "preview": "screenshots/somnus-sticker-aurora/preview.webp"
+  },
+  {
+    "id": "somnus-sticker-prism",
+    "name": "Somnus · Sticker Prism",
+    "group": "Sticker",
+    "appearance": "light",
+    "about": "Violet pop.",
+    "file": "themes/somnus-sticker-prism.json",
+    "preview": "screenshots/somnus-sticker-prism/preview.webp"
+  },
+  {
+    "id": "somnus-sticker-sage",
+    "name": "Somnus · Sticker Sage",
+    "group": "Sticker",
+    "appearance": "light",
+    "about": "Green pop.",
+    "file": "themes/somnus-sticker-sage.json",
+    "preview": "screenshots/somnus-sticker-sage/preview.webp"
+  },
+  {
+    "id": "somnus-sticker-holo",
+    "name": "Somnus · Sticker Holo",
+    "group": "Sticker",
+    "appearance": "light",
+    "about": "Periwinkle, like a holographic sticker.",
+    "file": "themes/somnus-sticker-holo.json",
+    "preview": "screenshots/somnus-sticker-holo/preview.webp"
+  },
+  {
+    "id": "somnus-sticker-neon",
+    "name": "Somnus · Sticker Neon",
+    "group": "Sticker",
+    "appearance": "light",
+    "about": "Electric cyan pop.",
+    "file": "themes/somnus-sticker-neon.json",
+    "preview": "screenshots/somnus-sticker-neon/preview.webp"
+  },
+  {
+    "id": "somnus-sticker-saffron",
+    "name": "Somnus · Sticker Saffron",
+    "group": "Sticker",
+    "appearance": "light",
+    "about": "Amber pop.",
+    "file": "themes/somnus-sticker-saffron.json",
+    "preview": "screenshots/somnus-sticker-saffron/preview.webp"
+  },
+  {
+    "id": "somnus-sticker-cinnabar",
+    "name": "Somnus · Sticker Cinnabar",
+    "group": "Sticker",
+    "appearance": "light",
+    "about": "Red pop.",
+    "file": "themes/somnus-sticker-cinnabar.json",
+    "preview": "screenshots/somnus-sticker-cinnabar/preview.webp"
+  },
+  {
+    "id": "somnus-sticker-high-contrast",
+    "name": "Somnus · Sticker High Contrast",
+    "group": "Sticker",
+    "appearance": "light",
+    "about": "Sticker with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-sticker-high-contrast.json",
+    "preview": "screenshots/somnus-sticker-high-contrast/preview.webp"
+  },
+  {
+    "id": "somnus-atelier",
+    "name": "Somnus · Atelier",
+    "group": "Atelier",
+    "appearance": "dark",
+    "about": "Selection blue.",
+    "file": "themes/somnus-atelier.json",
+    "preview": "screenshots/somnus-atelier/preview.webp"
+  },
+  {
+    "id": "somnus-atelier-sunset",
+    "name": "Somnus · Atelier Sunset",
+    "group": "Atelier",
+    "appearance": "dark",
+    "about": "Magenta guides.",
+    "file": "themes/somnus-atelier-sunset.json",
+    "preview": "screenshots/somnus-atelier-sunset/preview.webp"
+  },
+  {
+    "id": "somnus-atelier-forest",
+    "name": "Somnus · Atelier Forest",
+    "group": "Atelier",
+    "appearance": "dark",
+    "about": "Green guides.",
+    "file": "themes/somnus-atelier-forest.json",
+    "preview": "screenshots/somnus-atelier-forest/preview.webp"
+  },
+  {
+    "id": "somnus-atelier-ink",
+    "name": "Somnus · Atelier Ink",
+    "group": "Atelier",
+    "appearance": "dark",
+    "about": "Neutral, nothing but grey.",
+    "file": "themes/somnus-atelier-ink.json",
+    "preview": "screenshots/somnus-atelier-ink/preview.webp"
+  },
+  {
+    "id": "somnus-atelier-apricot",
+    "name": "Somnus · Atelier Apricot",
+    "group": "Atelier",
+    "appearance": "dark",
+    "about": "Orange guides.",
+    "file": "themes/somnus-atelier-apricot.json",
+    "preview": "screenshots/somnus-atelier-apricot/preview.webp"
+  },
+  {
+    "id": "somnus-atelier-mint",
+    "name": "Somnus · Atelier Mint",
+    "group": "Atelier",
+    "appearance": "dark",
+    "about": "Green guides.",
+    "file": "themes/somnus-atelier-mint.json",
+    "preview": "screenshots/somnus-atelier-mint/preview.webp"
+  },
+  {
+    "id": "somnus-atelier-high-contrast",
+    "name": "Somnus · Atelier High Contrast",
+    "group": "Atelier",
+    "appearance": "dark",
+    "about": "Atelier with stronger lines and brighter secondary text.",
+    "file": "themes/somnus-atelier-high-contrast.json",
+    "preview": "screenshots/somnus-atelier-high-contrast/preview.webp"
+  }
+]

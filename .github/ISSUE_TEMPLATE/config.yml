@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: A problem with T3 Code itself
+    url: https://github.com/pingdotgg/t3code/issues
+    about: This repository only holds themes. It is unofficial and not run by the makers of T3 Code.
+  - name: Change a theme to your taste
+    url: https://mako-code.github.io/t3code-themes/studio/
+    about: The Studio changes any theme, or builds your own from the parts of others.

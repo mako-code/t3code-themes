@@ -1,0 +1,8 @@
+# made by a build, not by hand: keep them out of the language count and folded in reviews
+themes/*.json linguist-generated
+themes.json linguist-generated
+themes.tsv linguist-generated
+studio/stage.js linguist-generated
+*.webp binary
+*.jpg binary
+*.mp4 binary
