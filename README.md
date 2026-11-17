@@ -64,9 +64,9 @@ The twelve the install script starts with. Each picture shows the dark side on t
 
 All 162, by family, with the name to install each by:
 
-<details>
-<summary><b>Scenes</b> · 12 · Twelve one-of-a-kind themes</summary>
-<br>
+### Scenes · 12
+
+Twelve one-of-a-kind themes.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-hanami/dark.webp"><img src="screenshots/somnus-hanami/preview.webp" alt="Hanami: dark and light"></a><br><b>Hanami</b> · <code>hanami</code></td>
@@ -83,10 +83,9 @@ All 162, by family, with the name to install each by:
 <td width="33%" align="center"><a href="screenshots/somnus-gilded/dark.webp"><img src="screenshots/somnus-gilded/preview.webp" alt="Gilded: dark and light"></a><br><b>Gilded</b> · <code>gilded</code></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Festive</b> · 7 · For the season, whichever it is</summary>
-<br>
+### Festive · 7
+
+For the season, whichever it is.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-yuletide/dark.webp"><img src="screenshots/somnus-yuletide/preview.webp" alt="Yuletide: dark and light"></a><br><b>Yuletide</b> · <code>yuletide</code></td>
@@ -100,10 +99,9 @@ All 162, by family, with the name to install each by:
 <td width="33%"></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Pixel</b> · 6 · Eight-bit worlds, drawn a square at a time on a 4 px grid: square corners, hard shadows, headings in mono, and pixel art that moves behind the chat</summary>
-<br>
+### Pixel · 6
+
+Eight-bit worlds, drawn a square at a time on a 4 px grid: square corners, hard shadows, headings in mono, and pixel art that moves behind the chat.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-pixel-overworld/dark.webp"><img src="screenshots/somnus-pixel-overworld/preview.webp" alt="Pixel Overworld: dark and light"></a><br><b>Pixel Overworld</b> · <code>pixel-overworld</code></td>
@@ -114,10 +112,9 @@ All 162, by family, with the name to install each by:
 <td width="33%" align="center"><a href="screenshots/somnus-pixel-reef/dark.webp"><img src="screenshots/somnus-pixel-reef/preview.webp" alt="Pixel Reef: dark and light"></a><br><b>Pixel Reef</b> · <code>pixel-reef</code></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Lab</b> · 6 · For the nerds: an orrery, Conway's Life, a circuit board, falling hex, a Hilbert curve and a pendulum wave</summary>
-<br>
+### Lab · 6
+
+For the nerds: an orrery, Conway's Life, a circuit board, falling hex, a Hilbert curve and a pendulum wave.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-orrery/dark.webp"><img src="screenshots/somnus-orrery/preview.webp" alt="Orrery: dark and light"></a><br><b>Orrery</b> · <code>orrery</code></td>
@@ -128,10 +125,9 @@ All 162, by family, with the name to install each by:
 <td width="33%" align="center"><a href="screenshots/somnus-harmonic/dark.webp"><img src="screenshots/somnus-harmonic/preview.webp" alt="Harmonic: dark and light"></a><br><b>Harmonic</b> · <code>harmonic</code></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Insomnia</b> · 12 · The flagship: the look of Insomnia itself, the app these themes take their motion from</summary>
-<br>
+### Insomnia · 12
+
+The flagship: the look of Insomnia itself, the app these themes take their motion from.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-insomnia/dark.webp"><img src="screenshots/somnus-insomnia/preview.webp" alt="Insomnia: dark and light"></a><br><b>Insomnia</b> · <code>insomnia</code></td>
@@ -148,10 +144,9 @@ All 162, by family, with the name to install each by:
 <td width="33%" align="center"><a href="screenshots/somnus-insomnia-high-contrast/dark.webp"><img src="screenshots/somnus-insomnia-high-contrast/preview.webp" alt="Insomnia High Contrast: dark and light"></a><br><b>Insomnia High Contrast</b> · <code>insomnia-high-contrast</code></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Nocturne</b> · 11 · The cinematic one</summary>
-<br>
+### Nocturne · 11
+
+The cinematic one.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-nocturne/dark.webp"><img src="screenshots/somnus-nocturne/preview.webp" alt="Nocturne: dark and light"></a><br><b>Nocturne</b> · <code>nocturne</code></td>
@@ -168,10 +163,9 @@ All 162, by family, with the name to install each by:
 <td width="33%"></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Obsidian</b> · 10 · Blue-black glass with lit edges</summary>
-<br>
+### Obsidian · 10
+
+Blue-black glass with lit edges.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-obsidian/dark.webp"><img src="screenshots/somnus-obsidian/preview.webp" alt="Obsidian: dark and light"></a><br><b>Obsidian</b> · <code>obsidian</code></td>
@@ -188,10 +182,9 @@ All 162, by family, with the name to install each by:
 <td width="33%"></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Carbon</b> · 8 · True black and white, lines only, labels in mono</summary>
-<br>
+### Carbon · 8
+
+True black and white, lines only, labels in mono.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-carbon/dark.webp"><img src="screenshots/somnus-carbon/preview.webp" alt="Carbon: dark and light"></a><br><b>Carbon</b> · <code>carbon</code></td>
@@ -205,10 +198,9 @@ All 162, by family, with the name to install each by:
 <td width="33%"></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Vellum</b> · 9 · Paper and ink</summary>
-<br>
+### Vellum · 9
+
+Paper and ink.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-vellum/dark.webp"><img src="screenshots/somnus-vellum/preview.webp" alt="Vellum: dark and light"></a><br><b>Vellum</b> · <code>vellum</code></td>
@@ -222,10 +214,9 @@ All 162, by family, with the name to install each by:
 <td width="33%" align="center"><a href="screenshots/somnus-vellum-high-contrast/dark.webp"><img src="screenshots/somnus-vellum-high-contrast/preview.webp" alt="Vellum High Contrast: dark and light"></a><br><b>Vellum High Contrast</b> · <code>vellum-high-contrast</code></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Porcelain</b> · 8 · Blue-and-white china</summary>
-<br>
+### Porcelain · 8
+
+Blue-and-white china.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-porcelain/dark.webp"><img src="screenshots/somnus-porcelain/preview.webp" alt="Porcelain: dark and light"></a><br><b>Porcelain</b> · <code>porcelain</code></td>
@@ -239,10 +230,9 @@ All 162, by family, with the name to install each by:
 <td width="33%"></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Classic</b> · 9 · The default Somnus look: graphite and stone</summary>
-<br>
+### Classic · 9
+
+The default Somnus look: graphite and stone.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-classic/dark.webp"><img src="screenshots/somnus-classic/preview.webp" alt="Classic: dark and light"></a><br><b>Classic</b> · <code>classic</code></td>
@@ -256,10 +246,9 @@ All 162, by family, with the name to install each by:
 <td width="33%" align="center"><a href="screenshots/somnus-classic-high-contrast/dark.webp"><img src="screenshots/somnus-classic-high-contrast/preview.webp" alt="Classic High Contrast: dark and light"></a><br><b>Classic High Contrast</b> · <code>classic-high-contrast</code></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Luminous</b> · 8 · True greys with no cast, lit by colour</summary>
-<br>
+### Luminous · 8
+
+True greys with no cast, lit by colour.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-luminous/dark.webp"><img src="screenshots/somnus-luminous/preview.webp" alt="Luminous: dark and light"></a><br><b>Luminous</b> · <code>luminous</code></td>
@@ -273,10 +262,9 @@ All 162, by family, with the name to install each by:
 <td width="33%"></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Pebble</b> · 8 · Sage tones, pills, no shadows at all</summary>
-<br>
+### Pebble · 8
+
+Sage tones, pills, no shadows at all.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-pebble/dark.webp"><img src="screenshots/somnus-pebble/preview.webp" alt="Pebble: dark and light"></a><br><b>Pebble</b> · <code>pebble</code></td>
@@ -290,10 +278,9 @@ All 162, by family, with the name to install each by:
 <td width="33%"></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Candor</b> · 5 · The accessible one: AAA words, clear edges, large targets</summary>
-<br>
+### Candor · 5
+
+The accessible one: AAA words, clear edges, large targets.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-candor/dark.webp"><img src="screenshots/somnus-candor/preview.webp" alt="Candor: dark and light"></a><br><b>Candor</b> · <code>candor</code></td>
@@ -304,10 +291,9 @@ All 162, by family, with the name to install each by:
 <td width="33%"></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Orchard</b> · 9 · Grouped greys, capsules and real glass</summary>
-<br>
+### Orchard · 9
+
+Grouped greys, capsules and real glass.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-orchard/dark.webp"><img src="screenshots/somnus-orchard/preview.webp" alt="Orchard: dark and light"></a><br><b>Orchard</b> · <code>orchard</code></td>
@@ -321,10 +307,9 @@ All 162, by family, with the name to install each by:
 <td width="33%" align="center"><a href="screenshots/somnus-orchard-high-contrast/dark.webp"><img src="screenshots/somnus-orchard-high-contrast/preview.webp" alt="Orchard High Contrast: dark and light"></a><br><b>Orchard High Contrast</b> · <code>orchard-high-contrast</code></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Strata</b> · 8 · Thin layers and quiet strokes</summary>
-<br>
+### Strata · 8
+
+Thin layers and quiet strokes.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-strata/dark.webp"><img src="screenshots/somnus-strata/preview.webp" alt="Strata: dark and light"></a><br><b>Strata</b> · <code>strata</code></td>
@@ -338,10 +323,9 @@ All 162, by family, with the name to install each by:
 <td width="33%"></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Jubilee</b> · 9 · Vivid tonal colour, big shapes, bouncy motion</summary>
-<br>
+### Jubilee · 9
+
+Vivid tonal colour, big shapes, bouncy motion.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-jubilee/dark.webp"><img src="screenshots/somnus-jubilee/preview.webp" alt="Jubilee: dark and light"></a><br><b>Jubilee</b> · <code>jubilee</code></td>
@@ -355,10 +339,9 @@ All 162, by family, with the name to install each by:
 <td width="33%" align="center"><a href="screenshots/somnus-jubilee-high-contrast/dark.webp"><img src="screenshots/somnus-jubilee-high-contrast/preview.webp" alt="Jubilee High Contrast: dark and light"></a><br><b>Jubilee High Contrast</b> · <code>jubilee-high-contrast</code></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Sticker</b> · 10 · Ink outlines, hard shadows, loud colour</summary>
-<br>
+### Sticker · 10
+
+Ink outlines, hard shadows, loud colour.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-sticker/dark.webp"><img src="screenshots/somnus-sticker/preview.webp" alt="Sticker: dark and light"></a><br><b>Sticker</b> · <code>sticker</code></td>
@@ -375,10 +358,9 @@ All 162, by family, with the name to install each by:
 <td width="33%"></td></tr>
 </table>
 
-</details>
-<details>
-<summary><b>Atelier</b> · 7 · Mid-grey tool chrome, dense and neutral, like a design tool</summary>
-<br>
+### Atelier · 7
+
+Mid-grey tool chrome, dense and neutral, like a design tool.
 
 <table>
 <tr><td width="33%" align="center"><a href="screenshots/somnus-atelier/dark.webp"><img src="screenshots/somnus-atelier/preview.webp" alt="Atelier: dark and light"></a><br><b>Atelier</b> · <code>atelier</code></td>
@@ -392,7 +374,6 @@ All 162, by family, with the name to install each by:
 <td width="33%"></td></tr>
 </table>
 
-</details>
 
 ## Studio
 
